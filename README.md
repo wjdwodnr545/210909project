@@ -4,6 +4,8 @@
 # 하병노 왔다감 ㅅㄱ
 __김영은__ 왔다감!!!
 
+![오류자바](https://lh3.googleusercontent.com/proxy/anzR8BIIhMh0clgZe1iH2sTujRSii2TSfrSuwpOw3H-O2TVYfefFS0r_qlbfzQqav8GOcmlAGMIrbds)
+
 # 마크다운(Markdown) 문서
 ***
 확장자 .md 로 된 파일들
