@@ -6,7 +6,7 @@ __김영은__ 왔다감!!!
 
 ![오류자바](https://lh3.googleusercontent.com/proxy/anzR8BIIhMh0clgZe1iH2sTujRSii2TSfrSuwpOw3H-O2TVYfefFS0r_qlbfzQqav8GOcmlAGMIrbds)
 
-![컴공짤](https://1.gall-img.com/hygall/files/attach/images/82/064/872/122/acc89a65637de468d4ff6d4c2fa5764d.jpeg)
+![배열을 쓰면 일어나는 일](https://i.pinimg.com/originals/26/f0/fe/26f0fee3a10046473c101d0be33237ac.jpg)
 # 마크다운(Markdown) 문서
 ***
 확장자 .md 로 된 파일들
